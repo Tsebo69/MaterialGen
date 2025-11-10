@@ -1,0 +1,27 @@
+model:
+  input_dim: 256
+  hidden_dims: [512, 256, 128]
+  output_dim: 10
+  latent_dim: 100
+
+training:
+  batch_size: 32
+  learning_rate: 0.001
+  generator_lr: 0.0002
+  discriminator_lr: 0.0002
+  epochs: 100
+  validation_split: 0.2
+
+data:
+  data_path: "./data/materials.csv"
+  feature_columns: []
+  target_columns: ["target"]
+
+api:
+  host: "localhost"
+  port: 8000
+  debug: true
+
+logging:
+  level: "INFO"
+  file: "./logs/materialgen.log"
